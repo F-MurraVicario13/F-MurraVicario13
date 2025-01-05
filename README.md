@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my startUp i am trying to create
 - 📫 How to reach me through my Email at fmuvic13@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I love soccer
 
 <!---
 F-MurraVicario13/F-MurraVicario13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
