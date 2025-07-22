@@ -6,6 +6,13 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love soccer
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=F-MurraVicario13&show_icons=true&theme=tokyonight" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=F-MurraVicario13&theme=tokyonight" />
+</p>
+
 <!---
 F-MurraVicario13/F-MurraVicario13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
